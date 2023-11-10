@@ -5,7 +5,7 @@ for (let i = 0; i <=15; i ++ ) {
   console.log(holidays[i]);
 }
 
-let i = 0;
+let i = -1;
 
 while (i < 15 ) {
   i ++;
